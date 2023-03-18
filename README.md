@@ -10,7 +10,7 @@ Time spent: **8** hours spent in total
 
 **Twitch for Birds** is an android app that allows birds to become content creators and stream!  
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **😰🧐😲**
 
 ## Application Features
 
