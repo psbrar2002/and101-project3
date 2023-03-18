@@ -47,9 +47,10 @@ I have chosen to duplicate the following layout from the **Twitch** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://user-images.githubusercontent.com/96799357/226083278-cb816d5c-547a-4a89-858a-bb632a104e27.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+
+GIF created with **ScreenTGif
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
