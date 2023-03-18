@@ -2,7 +2,7 @@
 
 # AND101 Project 3 - AnimalApps
 
-Submitted by: **Your Name Here**
+Submitted by: **Prabhdeep Brar**
 
 Time spent: **X** hours spent in total
 
