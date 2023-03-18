@@ -4,7 +4,7 @@
 
 Submitted by: **Prabhdeep Brar**
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Summary
 
@@ -57,17 +57,9 @@ GIF created with **ScreenTGif
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
 
-## Original App Layout (Optional Stretch Feature)
-
-Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
-
-It is for an app that **brief description**.
-
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
-
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned a lot more about Kotlin and XML in this unit finally got some hands on experience with buttons,textviews,constraint views, and edit views. It was a great experience and made me learn more about android development and what it is.
 
 ## License
 
